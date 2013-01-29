@@ -1,0 +1,13 @@
+/* 
+Theme Name: child_rembrandt
+Description: Thème enfant de rembrandt 
+Author: Olivier
+Author URI: http://localhost 
+Version: 1.0.0 
+Template: rembrandt
+*/
+
+@import url("../rembrandt/style.css");
+#style1{
+	float: left;
+}
