@@ -1,0 +1,13 @@
+/* 
+Theme Name: child_twentytwelve
+Description: Thème enfant de twentytwelve 
+Author: Olivier
+Author URI: http://localhost 
+Version: 1.0.0 
+Template: twentytwelve
+*/
+
+@import url("../twentytwelve/style.css");
+body{
+	background-color: #pink;
+}
